@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RIAN</title>
+	<style>
+		body {
+		  background-color: #23120C;
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+		}
+		.header {
+		  font-family: 'Times New Roman', Times, serif;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background-image: url("header.png");
+			background-size: cover;
+			height: 200px;
+		}
+		.header h1 {
+			color: white;
+			text-align: center;
+			font-size: 3em;
+			margin: 0;
+		}
+		.nav {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			background-color: black;
+			padding: 20px;
+		}
+		.nav a {
+			color: white;
+			text-decoration: none;
+		}
+		.main {
+		  text-align: center;
+		  font-size: 25px;
+		  font-family: 'Courier New', Courier, monospace;
+			padding: 20px;
+		}
+		.subtitle{
+		  text-align: center;
+		  font-size: 15px;
+		  font-family: 'Courier New', Courier, monospace;
+			padding: 20px;
+		}
+		.video {
+		  text-align: center;
+		}
+		.me{
+		text-align: center;
+		  font-size: 25px;
+		  font-family: 'Courier New', Courier, monospace;
+			padding: 5px;
+		}
+	</style>
+</head>
+<body>
+	<div class="header">
+		<h1>RIAN</h1>
+	</div>
+	<div class="nav">
+		<a href="https://m.youtube.com/watch?v=yBvCALJwbiY">Youtube </a>
+		<a href="https://www.instagram.com/rianthepochita/">Instagram</a>
+		<a href="#">About</a>
+	</div>
+	<div class="main">
+		<p> <font color= "white">WELCOME TO RIAN'S WEBSITE</p>
+	</div>
+	<div>
+	 <div class= "subtitle"> 
+	 <p> Thank you all for your support, through subcribing and liking my videos, my motivation to work and make this channel grow only emphasizes. Huge thanks.</p>
+	 </div>
+	 <br></br>
+	 <div class="main">
+		<p> <font color= "white">REQUESTS ARE OPEN</p>
+	</div>
+	
+	<div class="video">
+	  <video width="255" height="144" controls>
+	  <source src="request_open.mp4"
+	    type="video/mp4">
+	  </video>
+	</div>
+	 	<div class="main">
+		<p> <font color= "white">PATREON PAGE</p>
+		<img src="patreon.png"
+		width= "280"
+		height= "385">
+	</div>
+
+	<div class="me">
+		<p> <font color= "white">ABOUT ME</p>
+	</div>
+		 <div class= "subtitle"> 
+	 <p> Name: Rian <br>
+	 Age: 16<br>
+         Gender: Female <br>
+	 Personality: INTJ<br>
+	 Country: Germany<br>
+	 Status: Dead<br>
+	 Height: 6'2<br>
+	 Future career: Computer programmer<br>
+	 Reason for making channel: <br>Easy money
+	 </p>
+	 </div>
+	 
+	 
+	 	<div class="main">
+		<p> <font color= "red">SUBSCRIBE</p>
+	</div>
+	 
+</body>
+</html>
